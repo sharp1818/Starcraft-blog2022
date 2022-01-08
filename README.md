@@ -1,5 +1,7 @@
 # starblogs
 
+deploy link :  https://fireblog-2021.web.app
+
 ## Project setup
 ```
 npm install
